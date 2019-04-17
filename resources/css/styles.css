@@ -1,8 +1,9 @@
 h1 {
-  color: red;
+  color: white ;
 }
 
 body {
-  background-color: blue;
-}
+  background-color: teal;
+  font-size: 14;
+  font-family: helvetica;
 }
